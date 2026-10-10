@@ -1,5 +1,3 @@
-@'
-
 \# Databricks Concepts (my notes)
 
 
@@ -29,6 +27,4 @@
 
 
 \## 7. Troubleshooting log
-
-'@ | Set-Content docs\\concepts.md
 
